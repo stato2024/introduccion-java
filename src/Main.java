@@ -196,7 +196,7 @@ public class Main {
           /*
           17.Programa que lea un número entero N de 5 cifras y muestre las cifras que ocupan
           posiciones impares.
-           */
+
         System.out.println("Ingrese un número entero de 5 cifras: ");
         int numero = scanner.nextInt();
 
@@ -219,11 +219,11 @@ public class Main {
         } else {
             System.out.println("El número ingresado no tiene 5 cifras.");
         }
-
-
-
-
-
+*/
+        /*
+        18.Programa que lea tres números enteros H, M, S que contienen hora, minutos y
+        segundos respectivamente, y comprueba si la hora que indican es una hora válida.
+        */
     }
 
     }
